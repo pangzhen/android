@@ -1,1 +1,9 @@
-_site/
+docs/_posts/2017-04-20-my-example-post.md
+docs/_posts/2017-04-20-post-content-styles.md
+docs/_posts/2017-04-20-super-long-article.md
+docs/_posts/2017-04-20-welcome-to-jekyll.md
+docs/_posts/2017-04-29-cayman-example-content.md
+docs/_posts/2018-04-12-model-decorator.md
+docs/_site/
+docs/.sass-cache/*
+*.DS_Store
